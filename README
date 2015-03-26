@@ -1,20 +1,24 @@
-How tu use - The Stochastic Oscillator
-##########################
+~~ The Stochastic Oscillator ~~
+
+How tu use
+#########################
 
 Import "stoch.py" to your project and use one of the following functions:
 
-	- stoch(prices, kperiod, dperiod) => Returns k-value and d-value for the given setup
-    - is_bullish(prices, kperiod, dperiod) => Convenience method. Returns True/False
+- stoch(prices, kperiod, dperiod) => Returns k-value and d-value for the given setup
+- is_bullish(prices, kperiod, dperiod) => Convenience method. Returns True/False
 
-Requirements:
+Requirements
+#########################
 
 This module requires ..
 
-	- numpy
-	- the "technical indicators library" (http://sourceforge.net/projects/py-tech-ind)
+- numpy
+- the "technical indicators library" (http://sourceforge.net/projects/py-tech-ind)
 
-Testing:
+Testing
+#########################
 
-You may test this module before integration by running "stoch_test"
+You may test this module before integration by running "stoch_test.py"
 
 
