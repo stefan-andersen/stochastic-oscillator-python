@@ -1,4 +1,4 @@
-# The Stochastic Oscillator
+# stochastic-oscillator-python
 
 ## How tu use
 
